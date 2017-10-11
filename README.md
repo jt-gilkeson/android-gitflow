@@ -18,7 +18,7 @@ Hotfix branches are special release branches for bugfixes to the currently shipp
 Feature branches are for new functionality that is being added to the app.  When a feature is finished, it should be merged into the approriate release branch via Pull Request.
 
 ## bug/
-Bug branches are for fixing issues with exisitng code.  When a bug is fixed, it should be merged into either a release or hotfix branch via Pull Request.
+Bug branches are for fixing issues with existing code.  When a bug is fixed, it should be merged into either a release or hotfix branch via Pull Request.
 
 ## chore/ (optional)
 Chore branches are for work that does not add new functionality or fix an issue.  Some examples of a chore would be: refactoring code, cleaning up lint issues, renaming files, etc.  When a chore is completed, it should be merged into a release branch via Pull Request.  Whether you choose to have chore branhes or just treat them as features is an issue of preference.
